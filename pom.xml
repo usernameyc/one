@@ -10,6 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>onesquare_eureka</module>
+        <module>onesquare_common</module>
+        <module>onesquare_base</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
